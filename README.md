@@ -11,11 +11,11 @@ The preferred way to install this extension is through [composer](http://getcomp
 
 Either run
 ```sh
-$ php composer.phar require --prefer-dist loveorigami/yii2-modal-ajax "@dev"
+$ php composer.phar require --prefer-dist medre/yii2-modal-ajax-bt4 "@dev"
 ```
 or add
 ```
-"loveorigami/yii2-modal-ajax": "@dev"
+"medre/yii2-modal-ajax-bt4": "^1.0"
 ```
 to the require section of your composer.json file.
 
