@@ -3,7 +3,8 @@
 [![Total Downloads](https://poser.pugx.org/loveorigami/yii2-modal-ajax/downloads)](https://packagist.org/packages/loveorigami/yii2-modal-ajax)
 [![License](https://poser.pugx.org/loveorigami/yii2-modal-ajax/license)](https://packagist.org/packages/loveorigami/yii2-modal-ajax)
 
-A wrapper around Yii2 Bootstrap Modal for using an ActiveForm via AJAX inside.  
+A wrapper around Yii2 Bootstrap 4 Modal for using an ActiveForm via AJAX inside.  
+Repsitory forked [loveorigami/yii2-modal-ajax](https://github.com/loveorigami/yii2-modal-ajax)
 
 ## Installation
 The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
