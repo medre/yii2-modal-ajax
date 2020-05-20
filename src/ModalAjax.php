@@ -1,6 +1,6 @@
 <?php
 
-namespace lo\widgets\modal;
+namespace medre\widgets\modal;
 
 use yii\base\InvalidConfigException;
 use yii\bootstrap4\Modal;
@@ -12,7 +12,7 @@ use yii\web\View;
 /**
  * Class ModalAjax
  *
- * @package lo\widgets\modal
+ * @package medre\widgets\modal
  * @author  Lukyanov Andrey <loveorigami@mail.ru>
  */
 class ModalAjax extends Modal
