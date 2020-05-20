@@ -27,7 +27,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "lo\\widgets\\modal\\": "src/"
+      "medre\\widgets\\modal\\": "src/"
     }
   }
 }
