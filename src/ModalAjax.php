@@ -3,7 +3,7 @@
 namespace lo\widgets\modal;
 
 use yii\base\InvalidConfigException;
-use yii\bootstrap\Modal;
+use yii\bootstrap4\Modal;
 use yii\helpers\Html;
 use yii\helpers\Url;
 use yii\web\JsExpression;
@@ -48,6 +48,13 @@ class ModalAjax extends Modal
      * @var string
      */
     public $url;
+    
+    /**
+     * Modal header
+     *
+     * @var string
+     */
+    public $header;
 
     /**
      * reload pjax container after ajaxSubmit
